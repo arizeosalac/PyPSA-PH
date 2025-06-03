@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Jupyter Notebook provides a comprehensive, high spatial and temporal resolution model of the Philippine power grid using [PyPSA (Python for Power System Analysis)](https://pypsa.readthedocs.io/en/latest/). The model, called PyPSA-PH, is designed for research, planning, and scenario analysis to support the integration of renewable energy, grid modernization, and sustainable energy policy in the Philippines. The current model is currently composed of 192 nodes/buses, 425 generation units, 236 transmission lines, 25 storage units andd demand data benchedmarked from the year 2023 wit.
+This Jupyter Notebook provides a comprehensive, high spatial and temporal resolution model of the Philippine power grid using [PyPSA (Python for Power System Analysis)](https://pypsa.readthedocs.io/en/latest/). The model, called PyPSA-PH, is designed for research, planning, and scenario analysis to support the integration of renewable energy, grid modernization, and sustainable energy policy in the Philippines. The current model is currently composed of 192 nodes/buses, 425 generation units, 236 transmission lines, 25 storage units andd demand data benchedmarked from the year 2023.
 
 ![PyPSA-PH Full nodes baseline model](PyPSA_PH_fullnodes.png)
 
