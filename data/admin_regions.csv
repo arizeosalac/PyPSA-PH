@@ -1,0 +1,88 @@
+index,adm1_psgc,adm2_psgc,adm1_en,adm2_en,custom_TDP1,custom_TDP2
+0,100000000,102800000,Ilocos Region (Region I),Ilocos Norte,North Luzon,North Luzon District 1
+1,100000000,102900000,Ilocos Region (Region I),Ilocos Sur,North Luzon,North Luzon District 1
+2,100000000,103300000,Ilocos Region (Region I),La Union,North Luzon,North Luzon District 1
+3,100000000,105500000,Ilocos Region (Region I),Pangasinan,North Luzon,North Luzon District 3
+4,200000000,200900000,Cagayan Valley (Region II),Batanes,North Luzon,North Luzon District 4
+5,200000000,201500000,Cagayan Valley (Region II),Cagayan,North Luzon,North Luzon District 4
+6,200000000,203100000,Cagayan Valley (Region II),Isabela,North Luzon,North Luzon District 4
+7,200000000,205000000,Cagayan Valley (Region II),Nueva Vizcaya,North Luzon,North Luzon District 4
+8,200000000,205700000,Cagayan Valley (Region II),Quirino,North Luzon,North Luzon District 4
+9,300000000,300800000,Central Luzon (Region III),Bataan,North Luzon,North Luzon District 5
+10,300000000,301400000,Central Luzon (Region III),Bulacan,MERALCO,MERALCO North
+11,300000000,304900000,Central Luzon (Region III),Nueva Ecija,North Luzon,North Luzon District 6
+12,300000000,305400000,Central Luzon (Region III),Pampanga,North Luzon,North Luzon District 6
+13,300000000,306900000,Central Luzon (Region III),Tarlac,North Luzon,North Luzon District 6
+14,300000000,307100000,Central Luzon (Region III),Zambales,North Luzon,North Luzon District 5
+15,300000000,307700000,Central Luzon (Region III),Aurora,North Luzon,North Luzon District 6
+16,400000000,401000000,Calabarzon (Region IV-A),Batangas,South Luzon,South Luzon District 1
+17,400000000,402100000,Calabarzon (Region IV-A),Cavite,South Luzon,South Luzon District 1
+18,400000000,403400000,Calabarzon (Region IV-A),Laguna,South Luzon,South Luzon District 2
+19,400000000,405600000,Calabarzon (Region IV-A),Quezon,South Luzon,South Luzon District 2
+20,400000000,405800000,Calabarzon (Region IV-A),Rizal,MERALCO,MERALCO South
+21,500000000,500500000,Bicol Region (Region V),Albay,South Luzon,South Luzon District 3
+22,500000000,501600000,Bicol Region (Region V),Camarines Norte,South Luzon,South Luzon District 3
+23,500000000,501700000,Bicol Region (Region V),Camarines Sur,South Luzon,South Luzon District 3
+24,500000000,502000000,Bicol Region (Region V),Catanduanes,South Luzon,South Luzon District 3
+25,500000000,504100000,Bicol Region (Region V),Masbate,Visayas,Visayas District 1
+26,500000000,506200000,Bicol Region (Region V),Sorsogon,South Luzon,South Luzon District 3
+27,600000000,600400000,Western Visayas (Region VI),Aklan,Visayas,Visayas District 4
+28,600000000,600600000,Western Visayas (Region VI),Antique,Visayas,Visayas District 4
+29,600000000,601900000,Western Visayas (Region VI),Capiz,Visayas,Visayas District 4
+30,600000000,603000000,Western Visayas (Region VI),Iloilo,Visayas,Visayas District 4
+31,600000000,604500000,Western Visayas (Region VI),Negros Occidental,Visayas,Visayas District 3
+32,600000000,607900000,Western Visayas (Region VI),Guimaras,Visayas,Visayas District 4
+33,700000000,701200000,Central Visayas (Region VII),Bohol,Visayas,Visayas District 2b
+34,700000000,702200000,Central Visayas (Region VII),Cebu,Visayas,Visayas District 2a
+35,700000000,704600000,Central Visayas (Region VII),Negros Oriental,Visayas,Visayas District 3
+36,700000000,706100000,Central Visayas (Region VII),Siquijor,Visayas,Visayas District 3
+37,800000000,802600000,Eastern Visayas (Region VIII),Eastern Samar,Visayas,Visayas District 1
+38,800000000,803700000,Eastern Visayas (Region VIII),Leyte,Visayas,Visayas District 1
+39,800000000,804800000,Eastern Visayas (Region VIII),Northern Samar,Visayas,Visayas District 1
+40,800000000,806000000,Eastern Visayas (Region VIII),Samar,Visayas,Visayas District 1
+41,800000000,806400000,Eastern Visayas (Region VIII),Southern Leyte,Visayas,Visayas District 1
+42,800000000,807800000,Eastern Visayas (Region VIII),Biliran,Visayas,Visayas District 1
+43,900000000,907200000,Zamboanga Peninsula (Region IX),Zamboanga del Norte,Mindanao,Mindanao District 1
+44,900000000,907300000,Zamboanga Peninsula (Region IX),Zamboanga del Sur,Mindanao,Mindanao District 1
+45,900000000,908300000,Zamboanga Peninsula (Region IX),Zamboanga Sibugay,Mindanao,Mindanao District 1
+46,900000000,990100000,Zamboanga Peninsula (Region IX),City of Isabela (Not a Province),Mindanao,Mindanao District 7
+47,1000000000,1001300000,Northern Mindanao (Region X),Bukidnon,Mindanao,Mindanao District 3
+48,1000000000,1001800000,Northern Mindanao (Region X),Camiguin,Mindanao,Mindanao District 3
+49,1000000000,1003500000,Northern Mindanao (Region X),Lanao del Norte,Mindanao,Mindanao District 2
+50,1000000000,1004200000,Northern Mindanao (Region X),Misamis Occidental,Mindanao,Mindanao District 3
+51,1000000000,1004300000,Northern Mindanao (Region X),Misamis Oriental,Mindanao,Mindanao District 3
+52,1100000000,1102300000,Davao Region (Region XI),Davao del Norte,Mindanao,Mindanao District 5
+53,1100000000,1102400000,Davao Region (Region XI),Davao del Sur,Mindanao,Mindanao District 5
+54,1100000000,1102500000,Davao Region (Region XI),Davao Oriental,Mindanao,Mindanao District 5
+55,1100000000,1108200000,Davao Region (Region XI),Davao de Oro,Mindanao,Mindanao District 5
+56,1100000000,1108600000,Davao Region (Region XI),Davao Occidental,Mindanao,Mindanao District 5
+57,1200000000,1204700000,Soccsksargen (Region XII),Cotabato,Mindanao,Mindanao District 3
+58,1200000000,1206300000,Soccsksargen (Region XII),South Cotabato,Mindanao,Mindanao District 6
+59,1200000000,1206500000,Soccsksargen (Region XII),Sultan Kudarat,Mindanao,Mindanao District 6
+60,1200000000,1208000000,Soccsksargen (Region XII),Sarangani,Mindanao,Mindanao District 6
+61,1300000000,1303900000,National Capital Region (NCR),"NCR, City of Manila, First District (Not a Province)",MERALCO,MERALCO NCR
+62,1300000000,1307400000,National Capital Region (NCR),"NCR, Second District (Not a Province)",MERALCO,MERALCO NCR
+63,1300000000,1307500000,National Capital Region (NCR),"NCR, Third District (Not a Province)",MERALCO,MERALCO NCR
+64,1300000000,1307600000,National Capital Region (NCR),"NCR, Fourth District (Not a Province)",MERALCO,MERALCO NCR
+65,1400000000,1400100000,Cordillera Administrative Region (CAR),Abra,North Luzon,North Luzon District 1
+66,1400000000,1401100000,Cordillera Administrative Region (CAR),Benguet,North Luzon,North Luzon District 2
+67,1400000000,1402700000,Cordillera Administrative Region (CAR),Ifugao,North Luzon,North Luzon District 4
+68,1400000000,1403200000,Cordillera Administrative Region (CAR),Kalinga,North Luzon,North Luzon District 4
+69,1400000000,1404400000,Cordillera Administrative Region (CAR),Mountain Province,North Luzon,North Luzon District 2
+70,1400000000,1408100000,Cordillera Administrative Region (CAR),Apayao,North Luzon,North Luzon District 4
+71,1600000000,1600200000,Caraga (Region XIII),Agusan del Norte,Mindanao,Mindanao District 4
+72,1600000000,1600300000,Caraga (Region XIII),Agusan del Sur,Mindanao,Mindanao District 4
+73,1600000000,1606700000,Caraga (Region XIII),Surigao del Norte,Mindanao,Mindanao District 4
+74,1600000000,1606800000,Caraga (Region XIII),Surigao del Sur,Mindanao,Mindanao District 4
+75,1600000000,1608500000,Caraga (Region XIII),Dinagat Islands,Mindanao,Mindanao District 4
+76,1700000000,1704000000,Mimaropa (Region IV-B),Marinduque,South Luzon,South Luzon District 4
+77,1700000000,1705100000,Mimaropa (Region IV-B),Occidental Mindoro,South Luzon,South Luzon District 4
+78,1700000000,1705200000,Mimaropa (Region IV-B),Oriental Mindoro,South Luzon,South Luzon District 4
+79,1700000000,1705300000,Mimaropa (Region IV-B),Palawan,South Luzon,South Luzon District 4
+80,1700000000,1705900000,Mimaropa (Region IV-B),Romblon,South Luzon,South Luzon District 4
+81,1900000000,1900700000,Bangsamoro (BARMM),Basilan,Mindanao,Mindanao District 7
+82,1900000000,1903600000,Bangsamoro (BARMM),Lanao del Sur,Mindanao,Mindanao District 2
+83,1900000000,1906600000,Bangsamoro (BARMM),Sulu,Mindanao,Mindanao District 7
+84,1900000000,1907000000,Bangsamoro (BARMM),Tawi-Tawi,Mindanao,Mindanao District 7
+85,1900000000,1908700000,Bangsamoro (BARMM),Maguindanao del Norte,Mindanao,Mindanao District 6
+86,1900000000,1908800000,Bangsamoro (BARMM),Maguindanao del Sur,Mindanao,Mindanao District 6
