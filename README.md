@@ -4,7 +4,7 @@
 
 This Jupyter Notebook provides a comprehensive, high spatial and temporal resolution model of the Philippine power grid using [PyPSA (Python for Power System Analysis)](https://pypsa.readthedocs.io/en/latest/). The model, called PyPSA-PH, is designed for research, planning, and scenario analysis to support the integration of renewable energy, grid modernization, and sustainable energy policy in the Philippines.
 
-![PyPSA-PH Full nodes baseline model](images/PyPSA_PH_fullnodes.png)
+![PyPSA-PH Full nodes baseline model](PyPSA_PH_fullnodes.png)
 
 ## Features
 
