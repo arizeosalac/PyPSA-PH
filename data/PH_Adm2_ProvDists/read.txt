@@ -1,1 +1,1 @@
-
+Due to GitHub file size contraints, PH_Adm2_Provdist could not be uploaded to this repository. Instead, you can download the data from this GitHub repository (https://github.com/altcoder/philippines-psgc-shapefiles/blob/main/dist/PH_Adm2_ProvDists.shp.zip) and put it in this folder before running the notebook.
